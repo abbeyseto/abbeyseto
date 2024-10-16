@@ -77,8 +77,11 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 ---
 
 ### 🌍 Contributions Overview
-
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbeyseto&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbeyseto&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbeyseto&theme=default">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abbeyseto&theme=flat">
+</picture>
 
 ---
 
@@ -88,6 +91,14 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
   <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=tokyo-night">
   <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=minimal">
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=minimal">
+</picture>
+
+### 📈 Coding Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=minimal">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=minimal">
 </picture>
 
 ---
