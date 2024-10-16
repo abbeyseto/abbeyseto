@@ -88,17 +88,9 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 ### 📈 Coding Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=tokyo-night">
-  <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=minimal">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abbeyseto&theme=minimal">
-</picture>
-
-### 📈 Coding Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=minimal">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abbeyseto&theme=minimal">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=default">
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=default">
 </picture>
 
 ---
