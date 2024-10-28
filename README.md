@@ -58,7 +58,7 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 
 ### 🏢 Contributions to Companies and Open Source
 
-- **LiveKit RealtimePlayground(https://github.com/livekit-examples/realtime-playground)** - Play with OpenAI's new Realtime API in your browser.
+- **[LiveKit RealtimePlayground](https://github.com/livekit-examples/realtime-playground)** - Play with OpenAI's new Realtime API in your browser.
 - **[SurveyJS](https://github.com/surveyjs/survey-library)** - Contributed to the open-source form library for improved performance and new features.
 - **[FHIR Server](https://github.com/hapifhir/hapi-fhir)** - Contributed to open-source healthcare projects for medical data interoperability.
 - **Credentialing System** - Developed automation tools for credentialing healthcare practitioners.
