@@ -62,6 +62,7 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 - **[SurveyJS](https://github.com/surveyjs/survey-library)** - Contributed to the open-source form library for improved performance and new features.
 - **[FHIR Server](https://github.com/hapifhir/hapi-fhir)** - Contributed to open-source healthcare projects for medical data interoperability.
 - **Credentialing System** - Developed automation tools for credentialing healthcare practitioners.
+- <a href="https://www.producthunt.com/posts/microlever-by-lafia-io?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-microlever&#0045;by&#0045;lafia&#0045;io" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=584980&theme=light" alt="MicroLever&#0032;by&#0032;Lafia&#0046;io - Conversational&#0032;AI&#0032;for&#0032;SDOH&#0032;Insight&#0032;and&#0032;action&#0032; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ---
 
