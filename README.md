@@ -11,7 +11,7 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 - **Styling**: Tailwind CSS, Radix UI
 - **Testing**: Jest, Cypress
 - **Database**: PostgreSQL, MongoDB
-- **DevOps**: Docker, GitHub Actions, CI/CD
+- **DevOps**: Docker, GitHub Actions, CI/CD, AWS, GCP, Digital Ocean
 - **Other**: Web Scraping (Cheerio, Axios), Selenium, RPA
 
 ---
