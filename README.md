@@ -47,7 +47,7 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 ---
 
 ### 🔥 GitHub Streak
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abiodunadenle&theme=dark)](https://git.io/streak-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abbeyseto&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abbeyseto&theme=default">
