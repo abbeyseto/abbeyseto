@@ -1,18 +1,56 @@
 # Hi there! 👋 I'm Abiodun Adenle (abbeyseto)
 
-I'm a software engineer focused on building innovative, scalable, and efficient systems. I work across web and mobile platforms, specializing in technologies like JavaScript, React, Flutter, and more.
+I’m a software engineer building web, mobile, and AI systems with a focus on practical architecture, product quality, and efficient intelligence allocation.
+
+My current work leans into **Modelomics**: the practice of using the minimum effective intelligence, measuring return on intelligence, avoiding intelligence debt, and escalating only when the task truly needs it.
+
+---
+
+### Current Focus
+
+- Modelomics research, writing, and frameworks
+- AI-assisted product and workflow design
+- Web and mobile application development
+- Automation, integrations, and system orchestration
+- Building maintainable software with clear tradeoffs
 
 ---
 
 ### 🛠 Technologies and Tools I Use
-- **Languages**: JavaScript, TypeScript, Dart, SQL
-- **Frameworks**: React, Next.js, Flutter, NestJS
+
+- **Languages**: TypeScript, JavaScript, Dart, Python, SQL
+- **Frontend**: React, Next.js, Flutter
+- **Backend**: Node.js, NestJS, REST APIs
 - **State Management**: Zustand, Redux
 - **Styling**: Tailwind CSS, Radix UI
+- **Data**: PostgreSQL, MongoDB
+- **AI / Automation**: LLM workflows, RPA, web scraping, workflow orchestration
 - **Testing**: Jest, Cypress
-- **Database**: PostgreSQL, MongoDB
-- **DevOps**: Docker, GitHub Actions, CI/CD, AWS, GCP, Digital Ocean
-- **Other**: Web Scraping (Cheerio, Axios), Selenium, RPA
+- **DevOps**: Docker, GitHub Actions, CI/CD, AWS, GCP, DigitalOcean
+
+---
+
+### Modelomics
+
+Modelomics is my framework for allocating AI intelligence efficiently.
+
+- **Minimum Effective Intelligence**: use the smallest effective capability for the task
+- **Intelligence Debt**: track the long-term cost of over-allocation
+- **Return on Intelligence**: measure value relative to compute, latency, and maintenance cost
+- **Progressive Intelligence Escalation**: start simple and escalate only when needed
+
+I write about the framework in the repository below:
+
+- [Modelomics on GitHub](https://github.com/abbeyseto/modelomics)
+
+---
+
+### Selected Work
+
+- **LiveKit RealtimePlayground** - experimenting with realtime AI experiences in the browser
+- **FHIR and healthcare systems** - interoperability, credentialing, and workflow automation
+- **Open-source contributions** - product and platform work across web, mobile, and developer tooling
+- **Modelomics** - a practical framework for AI allocation, governance, and operational discipline
 
 ---
 
@@ -47,6 +85,7 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 ---
 
 ### 🔥 GitHub Streak
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abbeyseto&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abbeyseto&theme=default">
@@ -55,52 +94,13 @@ I'm a software engineer focused on building innovative, scalable, and efficient 
 
 ---
 
-### 🏢 Contributions to Companies and Open Source
-
-- **[LiveKit RealtimePlayground](https://github.com/livekit-examples/realtime-playground)** - Play with OpenAI's new Realtime API in your browser.
-- **[SurveyJS](https://github.com/surveyjs/survey-library)** - Contributed to the open-source form library for improved performance and new features.
-- **[FHIR Server](https://github.com/hapifhir/hapi-fhir)** - Contributed to open-source healthcare projects for medical data interoperability.
-- **Credentialing System** - Developed automation tools for credentialing healthcare practitioners.
-- <a href="https://www.producthunt.com/posts/microlever-by-lafia-io?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-microlever&#0045;by&#0045;lafia&#0045;io" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=584980&theme=light" alt="MicroLever&#0032;by&#0032;Lafia&#0046;io - Conversational&#0032;AI&#0032;for&#0032;SDOH&#0032;Insight&#0032;and&#0032;action&#0032; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
----
-
-### 🏅 Cool Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=abbeyseto&color=brightgreen&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/abbeyseto?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/abbeyseto?style=social)
-![Completed Projects](https://img.shields.io/badge/Projects%20Completed-50+-green)
-![Issues Closed](https://img.shields.io/badge/Issues%20Closed-100+-blue)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-200+-orange)
-
----
-
-### 🌍 Contributions Overview
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbeyseto&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbeyseto&theme=default">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=abbeyseto&theme=flat">
-</picture>
-
----
-
-### 📈 Coding Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=default">
-  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbeyseto&theme=default">
-</picture>
-
----
-
-### 💬 Let's Connect!
+### 💬 Let's Connect
 
 - **Email**: adenleabiodun@gmail.com
 - **LinkedIn**: [linkedin.com/in/adenleabiodun](https://linkedin.com/in/adenleabiodun)
-- **Twitter**: [@abbeyseto](https://twitter.com/abbeyseto)
+- **Website**: [adenleabiodun.com](https://adenleabiodun.com)
+- **Twitter/X**: [@abbeyseto](https://twitter.com/abbeyseto)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations. 😊
+Thanks for stopping by. I’m always open to thoughtful conversations about software, AI systems, and better ways to allocate intelligence.
